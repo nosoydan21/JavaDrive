@@ -3,7 +3,7 @@ package model;
 public class Coche extends Vehiculo {
 
     public enum TipoCoche {
-        PEQUEÑO("Pequeño"),
+        PEQUENIO("Pequeño"),
         FAMILIAR("Familiar"),
         DEPORTIVO("Deportivo");
 
